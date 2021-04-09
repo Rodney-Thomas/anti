@@ -57,4 +57,4 @@ goto [next]
 
 :thanks
 echo Thank you for using our free trial version of
-echo Palm Antivirus. This is a Discord virus deleter.
+echo Palm AntiVirus
